@@ -9,6 +9,6 @@ Correr `npm start` desde el servidor y navegar a `http://localhost:3000/`. la ap
 
 ## Captura de pantalla
 
-![alt text](./src/assets/img/Capture1.JPG "busqueda")
+![alt text](./src/assets/img/Capture.JPG "busqueda")
 
 
